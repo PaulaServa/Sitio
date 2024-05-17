@@ -1,0 +1,23 @@
+END USER LICENSE AGREEMENT
+
+This End-User License Agreement (this "EULA") is a legal agreement between you ("Licensee") and 3WART.GE ("Licensor").
+
+By installing, copying, or otherwise using the Software, 
+Licensee agrees to be bound by the terms and conditions set forth in this EULA. 
+If Licensee does not agree to the terms and conditions set forth in this EULA, 
+then Licensee may not download, install, or use the Software.
+
+Installation and Use. 
+
+Licensee may install and use a maximum of one(1) copies of the Software solely 
+for Licensee's business and personal use (for yourself or for one client a "single application"). The Software (End Product) can be distributed for free.
+The "End Product" is the final customized version/implementation of the template that Licensee can use or sell to a client.
+
+Licensee can do anything to a template and use it for one project or sell it to one person/business. 
+Licensee can also purchase a new license if Licensee want to use a newly purchased or customized template for another person/business/project.
+
+Description of Rights and Limitations 
+
+Licensee can’t sell the "End Product" to more than one client. Licensee client can't resell the "End Product".
+The template as a whole and the things inside of it cannot be resold or given out for free. 
+If Licensee buy a template, modify its contents and then sell it to a person/business, that person/business can't sell it or give it away.
